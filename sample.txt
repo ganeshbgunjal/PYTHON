@@ -1,0 +1,2 @@
+this is file is for learning file operations like read write. 
+this is using python.
